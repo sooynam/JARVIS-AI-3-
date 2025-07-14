@@ -106,7 +106,7 @@ You can expand Jarvis by:
 ## 📧 Contact
 
 Created by [YourName or Team Name]  
-For issues or feature requests: [GitHub Issues Link] or email: [your@email.com]
+For issues or feature requests: [GitHub Issues Link] or email: [sooynam321@gmail.com]
 
 ---
 
